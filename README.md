@@ -1,5 +1,5 @@
 
-<img src="RF.png" width="800">
+<img src="RF.png" width="600">
 
 # Reinforcement Learning Notebook 🤖
 
