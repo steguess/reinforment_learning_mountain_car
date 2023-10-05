@@ -1,7 +1,7 @@
 
 <img src="RF.png" width="600">
 
-# Reinforcement Learning Notebook 🤖
+# Mountain Car - Reinforcement Learning 🤖
 
 Reinforcement learning (RL) is the part of machine learning that deals with learning from interacting with an environment. In this report, we apply various methods of reinforcement learning to a controlled environment in OpenAI Gym. Let's dive in! 🌊
 
