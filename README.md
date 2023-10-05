@@ -86,7 +86,26 @@ The aim is to maximize total rewards 📈 by reaching the flag 🏁 in the least
 
 (Include other sections using similar structure and formatting.)
 
----
+## Authors ✍
 
-📌 Note: It's essential to maintain consistency in formatting and structure throughout the README for a clean look. The use of emojis adds a touch of vibrancy. However, make sure the file looks clean and clutter-free in GitHub's preview.
+Dominik Roser : https://github.com/domro11
+
+Stephanie Gessler: https://github.com/steguess
+
+Christian Barba: https://github.com/CBRodulfo
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/domro11"><img src="https://avatars.githubusercontent.com/u/108944195?v=4" width="100px;" alt="Dominik Roser"/><br /><sub><b>Dominik Roser</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=domro11" title="Backend Developer">💻</a></td>
+    <td align="center"><a href="https://github.com/steguess"><img src="https://avatars.githubusercontent.com/u/86976901?v=4" width="100px;" alt="Stephanie Gessler"/><br /><sub><b>Stephanie Gessler</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=steguess" title="Frontend Developer">💻</a></td>
+    <td align="center"><a href="https://github.com/CBRodulfo"><img src="https://avatars.githubusercontent.com/u/107241015?v=4" width="100px;" alt="Christian Barba"/><br /><sub><b>Christian Barba</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=CBRodulfo" title="UI/UX Designer">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
